@@ -1,3 +1,14 @@
 .main {
   background-color: var(--bg);
 }
+
+.imageContainer {
+  position: relative;
+  width: 100vw;
+  height: max(10vh, 30px);
+}
+
+.logoImage {
+  width: auto;
+  height: 100%;
+}

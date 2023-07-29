@@ -15,7 +15,6 @@ const GlobalStyle = createGlobalStyle`
     --text: #D3D3D3;
   }
 
-  @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
   body {
     background-color: var(--bg);
   }
