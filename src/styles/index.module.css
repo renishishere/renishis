@@ -4,8 +4,9 @@
 
 .imageContainer {
   position: relative;
-  width: 100vw;
-  height: max(10vh, 30px);
+  width: fit-content;
+  height: max(15vh, 30px);
+  margin-left: 10fr;
 }
 
 .logoImage {
